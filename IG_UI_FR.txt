@@ -1,0 +1,8 @@
+IG_UI_FR = {
+    IGUI_VehicleNameIFAV = "Véhicule d'attaque rapide Interim (IFAV)",
+    IGUI_VehiclePartExtraBumper = "IFAV Pare-choc avant",
+    IGUI_VehiclePartSoftTop = "IFAV Capote avant",
+    IGUI_VehiclePartSoftTop2 = "IFAV Capote arrière",
+    IGUI_VehiclePartRearSheet = "IFAV Bâche",
+    IGUI_VehiclePartwindshieldextra = "IFAV Cadre de pare-brise",
+}
