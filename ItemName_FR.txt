@@ -1,0 +1,9 @@
+ItemName_FR = {
+	ItemName_Base.IFAVDoor2 = "IFAV Portière",
+	ItemName_Base.IFAVFrontBumper2 = "IFAV Pare-choc avant",
+	ItemName_Base.IFAVFrontTop2 = "IFAV Capote avant",
+	ItemName_Base.IFAVRearTop2 = "IFAV Capote arrière",
+	ItemName_Base.IFAVSideCovers2 = "IFAV Couvertures latérales",
+	ItemName_Base.IFAVWindshield2 = "IFAV Pare-brise rétractable",
+	ItemName_Base.IFAVWindshieldFrame2 = "IFAV Cadre de pare-brise",
+}
